@@ -5,6 +5,8 @@ This project is part of the **Upzenix Full Stack Development Internship (Week 1)
 The goal was to create a **React form** with proper validation, error handling, routing, and a minimal UI.
 
 ---
+DEMO VIDEO: https://1drv.ms/v/c/1c2af590df30eee9/IQBk8zwuoksbRI7AZmkiAO-UAWNCG4xmxpFnDViDxTZwJyQ?e=JG8OqF
+---
 
 ## Features
 
